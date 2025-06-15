@@ -24,4 +24,4 @@ You will see the activation options. Choose the activation options highlighted i
 
 That's all
 
-ALl credits belongs to https://massgrave.dev
+All credits belongs to https://massgrave.dev
